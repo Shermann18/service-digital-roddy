@@ -1,17 +1,1 @@
-# Fichiers temporaires
-*.tmp
-*.temp
-
-# Fichiers système
-.DS_Store
-Thumbs.db
-
-# Fichiers de développement
-node_modules/
-.vscode/
-.idea/
-
-# Fichiers sensibles (à ne PAS partager)
-config.js
-api-keys.js
-.env
+*tmp
